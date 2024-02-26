@@ -1,0 +1,3 @@
+- php artisan serve --port=6653
+- php artisan make:test ContohTest
+- php artisan make:test ContohTest --unit
